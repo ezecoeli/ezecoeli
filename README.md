@@ -11,7 +11,7 @@ Hace más de tres años trabajo como QA tester y estoy dando mis primeros pasos 
   
 - 🌱 Comparto el desarrollo de un proyecto flutter sobre una apolicación para móviles.
   
-- 👀 Busco colaborar con personas interesadas en la creación de proyectos básicos de aplicaciones o videojuegos.
+- 👀 Me interesa colaborar con personas interesadas en la creación de proyectos básicos de aplicaciones o videojuegos.
 
 
 📫 **Sígueme en:**  
