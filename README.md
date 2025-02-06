@@ -15,4 +15,4 @@ Hace más de tres años trabajo como QA tester y estoy dando mis primeros pasos 
 
 
 📫 **Sígueme en:**  
-[LinkedIn]([https://linkedin.com/in/juanperez](https://www.linkedin.com/in/ezequiel-coeli-softwaretestingqa/) 
+[LinkedIn](https://www.linkedin.com/in/ezequiel-coeli-softwaretestingqa/) 
