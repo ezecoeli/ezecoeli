@@ -7,11 +7,11 @@ Hace más de tres años trabajo como QA tester y estoy dando mis primeros pasos 
 
 
 ## Proyectos
-- Actualmente desarrollando un videojuego utilizando Godot 4, (ver repositorio AURA-MORTIS).
+- Aplicaciones web desarrolladas con React (JavaScript).
+
+- Actualmente creando un videojuego utilizando Godot 4, (ver repositorio AURA-MORTIS).
   
-- Comparto el desarrollo de un proyecto flutter sobre una apolicación para móviles.
-  
-- Me interesa colaborar con personas interesadas en la creación de proyectos básicos de aplicaciones o videojuegos.
+- Comparto el desarrollo de un proyecto flutter multiplataforma.
 
 
 **Sígueme en:**  
