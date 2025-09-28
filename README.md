@@ -1,15 +1,19 @@
 ![LinkedinProfile](images/InProfile.png)
 
-# ¡Hola Comunidad! 
-Soy Ezequiel, un fan de las computadores desde siempre y de la tecnología ne general.
+# console.log("¡Hola GitHub!") 
+Soy Ezequiel, un fan de las computadoras desde siempre y de la tecnología en general.
 
-Hace más de tres años trabajo como QA tester y estoy dando mis primeros pasos en el mundo de la programación.
+Desde el 2021 trabajo como QA participando en múltiples proyectos internacionales lo que me dió, junto con mi formación, un entendimiento claro y experiencia en ciclos de desarrollo de software y trabajo con equipos de todo el mundo.
+
+A inicios del 2025 empecé a dar mis primeros pasos en el mundo de la programación, principalmente en desarrollo web pero también de aplicaciones multiplataforma y desarrollo de vidoejuegos con Godot Engine.
 
 
 ## Proyectos
-- Aplicaciones web desarrolladas con React (JavaScript).
+- 🌐 **[Portfolio](https://ezecoeli.github.io/React-Portfolio/)**  
+  Mi portfolio donde muestro las aplicaciones web desarrolladas por mi con React (JavaScript).
 
-- Actualmente creando un videojuego utilizando Godot 4, (ver repositorio AURA-MORTIS).
+- 🎮 **[Aura Mortis](https://github.com/ezecoeli/Aura-Mortis)**  
+  Videojuego en desarrollo creado con **Godot 4**.  
   
 - Comparto el desarrollo de un proyecto flutter multiplataforma.
 
