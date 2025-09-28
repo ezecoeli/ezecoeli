@@ -3,9 +3,9 @@
 # console.log("¡Hola GitHub!") 
 Soy Ezequiel, un fan de las computadoras desde siempre y de la tecnología en general.
 
-Desde el 2021 trabajo como QA participando en múltiples proyectos internacionales lo que me dió, junto con mi formación, un entendimiento claro y experiencia en ciclos de desarrollo de software y trabajo con equipos de todo el mundo.
+Desde el 2021 trabajo como QA participando en múltiples proyectos internacionales lo que me dió, junto con mi formación, un entendimiento claro y experiencia en ciclos de desarrollo de software y colaboración con equipos de todo el mundo.
 
-A inicios del 2025 empecé a dar mis primeros pasos en el mundo de la programación, principalmente en desarrollo web pero también de aplicaciones multiplataforma y desarrollo de vidoejuegos con Godot Engine.
+A inicios del 2025 empecé a dar mis primeros pasos en el mundo de la programación, principalmente en desarrollo web pero también de aplicaciones multiplataforma y desarrollo de videojuegos con Godot Engine.
 
 ---
 
