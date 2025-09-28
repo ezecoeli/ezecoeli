@@ -7,16 +7,34 @@ Desde el 2021 trabajo como QA participando en múltiples proyectos internacional
 
 A inicios del 2025 empecé a dar mis primeros pasos en el mundo de la programación, principalmente en desarrollo web pero también de aplicaciones multiplataforma y desarrollo de vidoejuegos con Godot Engine.
 
+---
 
 ## Proyectos
-- 🌐 **[Portfolio](https://ezecoeli.github.io/React-Portfolio/)**  
+### 🌐 WEB
+- **[Portfolio](https://ezecoeli.github.io/React-Portfolio/)**
   Mi portfolio donde muestro las aplicaciones web desarrolladas por mi con React (JavaScript).
 
-- 🎮 **[Aura Mortis](https://github.com/ezecoeli/Aura-Mortis)**  
+- **[ManagePlaneTool](https://github.com/ezecoeli/ManagerPlaneTool/)**
+  Gestor de inventarios de IT para cualquier empresa o establecimiento.
+
+- **[ToolFrame](https://github.com/ezecoeli/ToolFrame/)**
+  Centro de recursos gratuitos para propósitos generales del desarrollo.
+
+- **[Deploy-Chat](https://github.com/ezecoeli/Deploy-Chat/)**
+  Una plataforma de chat diseñada específicamente para equipos de desarrollo.
+
+---
+
+### 🎮 Videojuegos
+- **[Aura Mortis](https://github.com/ezecoeli/Aura-Mortis)**
   Videojuego en desarrollo creado con **Godot 4**.  
-  
-- Comparto el desarrollo de un proyecto flutter multiplataforma.
 
+---
 
-**Sígueme en:**  
+### 📱 Multiplataforma
+- Proyecto en desarrollo con **Flutter** para aplicacion móvil y de escritorio.
+
+---
+
+### **Contacto:**  
 [LinkedIn](https://www.linkedin.com/in/ezequiel-coeli-softwareqadev/) 
