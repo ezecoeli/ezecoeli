@@ -1,7 +1,7 @@
 ![LinkedinProfile](images/InProfile.png)
 
 # ¡Hola Comunidad! 
-Soy Ezequiel, un apasionado por la tecnología en constante aprendizaje. 
+Soy Ezequiel, un fan de las computadores desde siempre y de la tecnología ne general.
 
 Hace más de tres años trabajo como QA tester y estoy dando mis primeros pasos en el mundo de la programación.
 
@@ -15,4 +15,4 @@ Hace más de tres años trabajo como QA tester y estoy dando mis primeros pasos 
 
 
 **Sígueme en:**  
-[LinkedIn](https://www.linkedin.com/in/ezequiel-coeli-softwaretestingqa/) 
+[LinkedIn](https://www.linkedin.com/in/ezequiel-coeli-softwareqadev/) 
