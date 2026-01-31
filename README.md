@@ -9,8 +9,6 @@ A inicios de 2025 empecé a dar mis primeros pasos en el mundo del desarrollo de
 
 Además de mi experiencia profesional en QA, desarrollo proyectos personales orientados a aplicaciones web y herramientas para desarrolladores, donde aplico buenas prácticas de frontend, arquitectura de software y experiencia de usuario, combinando testing, programación y producto en un enfoque integral.
 
-Entre mis proyectos actuales se encuentran
-
 ---
 
 ## Proyectos
