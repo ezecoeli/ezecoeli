@@ -3,9 +3,13 @@
 # console.log("¡Hola GitHub!") 
 Soy Ezequiel, un fan de las computadoras desde siempre y de la tecnología en general.
 
-Desde el 2021 trabajo como QA participando en múltiples proyectos internacionales lo que me dió, junto con mi formación, un entendimiento claro y experiencia en ciclos de desarrollo de software y colaboración con equipos de todo el mundo.
+Desde 2021 me desempeño como tester de software, participando en proyectos de aseguramiento de calidad para aplicaciones web, móviles y de escritorio, tanto en modalidad freelance como dentro de equipos corporativos. Actualmente trabajo en una empresa fintech, formando parte activa del ciclo de desarrollo de productos digitales en entornos ágiles, colaborativos y orientados a negocio.
 
-A inicios del 2025 empecé a dar mis primeros pasos en el mundo de la programación, principalmente en desarrollo web pero también de aplicaciones multiplataforma y desarrollo de videojuegos con Godot Engine.
+A inicios de 2025 empecé a dar mis primeros pasos en el mundo del desarrollo de videojuegos con Godot Engine, explorando mecánicas, sistemas de gameplay y arquitectura de proyectos interactivos como parte de mi crecimiento técnico y creativo.
+
+Además de mi experiencia profesional en QA, desarrollo proyectos personales orientados a aplicaciones web y herramientas para desarrolladores, donde aplico buenas prácticas de frontend, arquitectura de software y experiencia de usuario, combinando testing, programación y producto en un enfoque integral.
+
+Entre mis proyectos actuales se encuentran
 
 ---
 
