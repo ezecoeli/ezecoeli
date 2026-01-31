@@ -12,7 +12,7 @@ Además de mi experiencia profesional en QA, desarrollo proyectos personales ori
 ---
 
 ## Proyectos
-### 🌐 WEB
+### WEB
 - **[Portfolio](https://ezecoeli.github.io/React-Portfolio/)**
   Mi portfolio donde muestro las aplicaciones web desarrolladas por mi con React (JavaScript).
 
@@ -27,14 +27,18 @@ Además de mi experiencia profesional en QA, desarrollo proyectos personales ori
 
 ---
 
-### 🎮 Videojuegos
+### Videojuegos
 - **[Aura Mortis](https://github.com/ezecoeli/Aura-Mortis)**
   Videojuego en desarrollo creado con **Godot 4**.  
 
 ---
 
-### 📱 Multiplataforma
-- Proyecto en desarrollo con **Flutter** para aplicacion móvil y de escritorio.
+### Colaboraciones y contribuciones
+- **[ShuttleBiz](https://github.com/marcdevelopez/shuttlebiz)**  
+  Proyecto de gestión de transporte y logística donde colaboré en el desarrollo y mejora de funcionalidades front-end, aplicando buenas prácticas y mejoras en   UX/UI.
+
+- **[Focus Interval](https://github.com/marcdevelopez/focus-interval)**  
+  Herramienta de productividad basada en intervalos de tiempo (Pomodoro), en la que participé contribuyendo con mejoras de interfaz y **testing de funcionalidades**.
 
 ---
 
