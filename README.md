@@ -14,7 +14,7 @@ Además de mi experiencia profesional en QA, desarrollo proyectos personales ori
 ## Proyectos
 ### WEB
 - **[Portfolio](https://ezecoeli.github.io/React-Portfolio/)**
-  Mi portfolio donde muestro las aplicaciones web desarrolladas por mi con React (JavaScript).
+  Mi portfolio donde muestro las aplicaciones web desarrolladas con React (JavaScript).
 
 - **[ManagePlaneTool](https://github.com/ezecoeli/ManagerPlaneTool/)**
   Gestor de inventarios de IT para cualquier empresa o establecimiento.
