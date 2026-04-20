@@ -44,3 +44,9 @@ Además de mi experiencia profesional en QA, desarrollo proyectos personales ori
 
 ### **Contacto:**  
 [LinkedIn](https://www.linkedin.com/in/ezequiel-coeli-softwareqadev/) 
+
+### ☕ Apóyame
+
+Si te gusta mi trabajo, puedes invitarme a un café:
+
+[![Donar con PayPal](https://img.shields.io/badge/Donar-PayPal-blue?logo=paypal)](https://paypal.me/ezequielcoeli)
