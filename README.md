@@ -25,6 +25,10 @@ Además de mi experiencia profesional en QA, desarrollo proyectos personales ori
 - **[Deploy-Chat](https://github.com/ezecoeli/Deploy-Chat/)**
   Una plataforma de chat diseñada específicamente para equipos de desarrollo.
 
+### Mobile
+- **[Gaveo](https://github.com/ezecoeli/Gaveo/)**
+  Gestión financiera del hogar. Registra ingresos, gastos fijos, gastos variables y metas de ahorro mensualmente de manera sencilla.
+
 ---
 
 ### Videojuegos
